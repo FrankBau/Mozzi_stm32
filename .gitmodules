@@ -1,0 +1,6 @@
+[submodule "Mozzi"]
+	path = Mozzi
+	url = https://github.com/FrankBau/Mozzi.git
+[submodule "FixMath"]
+	path = FixMath
+	url = https://github.com/FrankBau/FixMath.git
