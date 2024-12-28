@@ -16,12 +16,12 @@
  ******************************************************************************
  */
 
-// #include "Mozzi/examples/01.Basics/Sinewave/Sinewave.ino"        // nice and smooth
+#include "Mozzi/examples/01.Basics/Sinewave/Sinewave.ino"        // nice and smooth
 // #include "Mozzi/examples/01.Basics/Vibrato/Vibrato.ino"         // sounds good vibrato
 // #include "Mozzi/examples/06.Synthesis/Detuned_Beats_Wash/Detuned_Beats_Wash.ino" // great organ? vibes
 
 
-#include "Mozzi/examples/02.Control/Control_Echo_Theremin/Control_Echo_Theremin.ino" // sounds spacy theremin
+// #include "Mozzi/examples/02.Control/Control_Echo_Theremin/Control_Echo_Theremin.ino" // sounds spacy theremin
 // #include "Mozzi/examples/02.Control/Control_Oscil_Wash/Control_Oscil_Wash.ino" // sounds good
 // #include "Mozzi/examples/07.Envelopes/ADSR_Audio_Rate_Envelope/ADSR_Audio_Rate_Envelope.ino" // Geigenschüler
 
