@@ -16,7 +16,7 @@
  ******************************************************************************
  */
 
-#include "Mozzi/examples/01.Basics/Sinewave/Sinewave.ino"        // nice and smooth
+// #include "Mozzi/examples/01.Basics/Sinewave/Sinewave.ino"        // nice and smooth
 // #include "Mozzi/examples/01.Basics/Vibrato/Vibrato.ino"         // sounds good vibrato
 // #include "Mozzi/examples/06.Synthesis/Detuned_Beats_Wash/Detuned_Beats_Wash.ino" // great organ? vibes
 
@@ -32,6 +32,9 @@
 // #include "Mozzi/examples/06.Synthesis/PWM_Phasing/PWM_Phasing.ino" // fat sound, but boring
 
 // #include "Mozzi/examples/09.Delays/AudioDelay/AudioDelay.ino"   // mistuned
+
+
+#include "white_noise.cpp"
 
 #include <sysclk.h>
 
